@@ -1,0 +1,9 @@
+Java is a widely used programming language.
+It is fast, secure, and reliable. Java is everywhere — on mobile, web, desktop, and embedded systems.
+Many developers enjoy coding in Java because of its rich API and strong community support.
+
+However, sometimes Java throws an error that developers need to debug.
+Error handling is an important skill in Java and helps improve code quality.
+
+If an error occurs, developers check the stack trace and try to fix it quickly.
+A good developer learns from each error and avoids repeating the same mistakes.
